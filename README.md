@@ -1,4 +1,4 @@
-# 🚖 Uber USA Ride Analytics Dashboard (Tableau)
+# Uber USA Ride Analytics Dashboard (Tableau)
 
 An end-to-end **Tableau analytics dashboard** designed to analyze Uber ride data across the **United States** and deliver actionable insights across **bookings, revenue, vehicles, customers, and locations**.
 This project focuses on **business-driven analytics**, data modeling, calculated fields, dashboard actions, and professional dashboard design.
@@ -7,7 +7,7 @@ This is a US recreation of an original Uber India dashboard project, rebuilt fro
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 Uber operates at a massive scale across major US cities, handling millions of daily rides. Managing such operations requires transforming raw ride data into **meaningful insights** that support decision-making.
 This project addresses key business questions related to **performance monitoring, revenue optimization, customer behavior, and operational efficiency** using Tableau.
@@ -16,7 +16,7 @@ Dataset: **150,000 ride-level transactions** across 8 major US cities (New York,
 
 ---
 
-## 🎯 Business Objectives
+## Business Objectives
 
 - Monitor overall ride and revenue performance across US markets
 - Identify revenue drivers and loss areas by city and vehicle type
@@ -27,7 +27,7 @@ Dataset: **150,000 ride-level transactions** across 8 major US cities (New York,
 
 ---
 
-## 📂 Dataset Overview
+## Dataset Overview
 
 The dataset represents **ride-level transactional data** and includes:
 
@@ -53,7 +53,7 @@ Data is analyzed on **monthly and quarterly** levels to identify trends and patt
 
 ---
 
-## 🏙️ Cities & Locations
+## Cities & Locations
 
 | City | Sample Neighborhoods |
 |---|---|
@@ -68,7 +68,7 @@ Data is analyzed on **monthly and quarterly** levels to identify trends and patt
 
 ---
 
-## 🚗 Vehicle Types
+## Vehicle Types
 
 | Vehicle Type | Description | Fare Multiplier |
 |---|---|---|
@@ -80,7 +80,7 @@ Data is analyzed on **monthly and quarterly** levels to identify trends and patt
 
 ---
 
-## 🧱 Dashboard Architecture
+## Dashboard Architecture
 
 The dashboard is structured into **five analytical pages**, each serving a specific business requirement:
 
@@ -94,7 +94,7 @@ Interactive navigation icons and dashboard actions (filter / change-parameter) a
 
 ---
 
-## 📊 Page-wise Business Explanation
+## Page-wise Business Explanation
 
 ---
 
@@ -208,7 +208,7 @@ Analyze geographic and time-based demand patterns across US cities.
 
 ---
 
-## 🛠 Tools & Technologies Used
+## Tools & Technologies Used
 
 - **Tableau Desktop**
 - Calculated Fields & Parameters
@@ -220,7 +220,7 @@ Analyze geographic and time-based demand patterns across US cities.
 
 ---
 
-## 💳 Payment Methods
+## Payment Methods
 
 | Method | Share |
 |---|---|
@@ -232,7 +232,7 @@ Analyze geographic and time-based demand patterns across US cities.
 
 ---
 
-## 📈 Business Impact
+## Business Impact
 
 This dashboard enables Uber USA stakeholders to:
 
@@ -245,7 +245,7 @@ This dashboard enables Uber USA stakeholders to:
 
 ---
 
-## 📚 Key Learnings
+## Key Learnings
 
 - End-to-end Tableau dashboard development
 - Translating business requirements into analytics
@@ -255,7 +255,7 @@ This dashboard enables Uber USA stakeholders to:
 
 ---
 
-## 🚀 Future Enhancements
+## Future Enhancements
 
 - Real-time data integration via Uber API
 - Predictive demand forecasting by city
@@ -266,7 +266,7 @@ This dashboard enables Uber USA stakeholders to:
 
 ---
 
-## 📁 Repository Contents
+## Repository Contents
 
 | File / Folder | Description |
 |---|---|
@@ -282,6 +282,6 @@ This dashboard enables Uber USA stakeholders to:
 
 ---
 
-## 📎 Note
+## Note
 
 This project is created for **learning, portfolio, and demonstration purposes** using a synthetic dataset of **150,000 rows** and **19 features**, modeled after real-world Uber USA operations.
