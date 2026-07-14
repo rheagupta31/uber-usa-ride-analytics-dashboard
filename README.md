@@ -5,6 +5,8 @@ This project focuses on **business-driven analytics**, data modeling, calculated
 
 This is a US recreation of an original Uber India dashboard project, rebuilt from the ground up on a US-market synthetic dataset (8 major US cities) and in **Tableau Desktop** rather than the original tool.
 
+🔗 **[View Live Interactive Dashboard on Tableau Public](https://public.tableau.com/views/Uber_17827445946340/Home?:language=en-US&:display_count=n&:origin=viz_share_link)**
+
 ---
 
 ## Project Overview
