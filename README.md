@@ -100,6 +100,8 @@ Interactive navigation icons and dashboard actions (filter / change-parameter) a
 
 ### 1️⃣ Home / Landing Page
 
+![Home Page](Screenshots/Home.png)
+
 **Purpose**
 - Introduces the Uber USA analytics dashboard
 - Provides context and navigation for users
@@ -112,6 +114,8 @@ Interactive navigation icons and dashboard actions (filter / change-parameter) a
 ---
 
 ### 2️⃣ Overview Page
+
+![Overview Page](Screenshots/Overview.png)
 
 **Business Requirement**
 Provide a high-level snapshot of Uber USA's operational and financial performance.
@@ -134,6 +138,8 @@ Provide a high-level snapshot of Uber USA's operational and financial performanc
 
 ### 3️⃣ Vehicle Page
 
+![Vehicle Page](Screenshots/Vehicle.png)
+
 **Business Requirement**
 Analyze performance at the vehicle level to optimize fleet usage.
 
@@ -153,6 +159,8 @@ Analyze performance at the vehicle level to optimize fleet usage.
 
 ### 4️⃣ Revenue Page
 
+![Revenue Page](Screenshots/Revenue.png)
+
 **Business Requirement**
 Provide detailed financial insights and identify revenue risks.
 
@@ -171,6 +179,8 @@ Provide detailed financial insights and identify revenue risks.
 ---
 
 ### 5️⃣ Customer Page
+
+![Customer Page](Screenshots/Customer.png)
 
 **Business Requirement**
 Understand customer behavior, loyalty, and cancellation impact.
@@ -195,6 +205,8 @@ Understand customer behavior, loyalty, and cancellation impact.
 ---
 
 ### 6️⃣ Location Page
+
+![Location Page](Screenshots/Location.png)
 
 **Business Requirement**
 Analyze geographic and time-based demand patterns across US cities.
@@ -277,8 +289,8 @@ This dashboard enables Uber USA stakeholders to:
 | `IMG_VehicleTypes.csv` | Vehicle type reference data |
 | `dashboard_images/` | Icons, nav buttons, and custom vehicle-type shapes used in the dashboard |
 | `btn_*.png` | Navigation button assets |
-
-> Note: This repo holds the dataset, documentation, and design assets for the project. The Tableau workbook itself (`.twbx`) lives in Tableau Desktop/Public — add it here (or link to its Tableau Public URL) if you'd like the interactive dashboard versioned alongside these files.
+| `Screenshots/` | Full-page screenshots of each dashboard page |
+| `Uber_USA_Dashboard.twbx` | The Tableau packaged workbook — open in Tableau Desktop (or Tableau Public) to interact with the live dashboard |
 
 ---
 
